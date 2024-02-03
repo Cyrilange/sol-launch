@@ -24,6 +24,6 @@ important note : each investor can only votre once when creator needs to buy som
 each vote would be count as 1 as their is a minimum to invest anyway 
 
 
-for the rewards we need to put in place a way to end of the year give divident topt he investors depending on the oourcentage they earn and the success of the project itself
+for the rewards we need to put in place a way to end of the year give divident topt he investors depending on the pourcentage they earn and the success of the project itself
 
 ![image](https://github.com/Cyrilange/sol-launch/assets/106234259/b11cdb6f-29c8-4fc1-98d2-94adcd38ff00)
