@@ -14,6 +14,9 @@ at the time I only made a page but i wiull make more ,
 3-once you are login you can see your campaign that you invested ( for investors ) , and for tyhe creator youc an see the monney you have and how many people they did ionvest 
 
 
+( i will merge html and js with the library react as the change of page is very fast with react )
+
+
 
 
 
